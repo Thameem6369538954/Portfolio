@@ -8,7 +8,7 @@ const Header = () => {
       <div className="md:flex  items-center justify-around bg-[#FBFBFB] ">
         <div className="md:w-[50%] md:h-[100vh] w-[100%] h-[50vh] text-center flex items-center justify-center flex-col gap-5 px-10 relative top-10 ">
           <h1
-            className="text-[#32333c] text-7xl font-poppins text-responsive"
+            className="text-[#32333c] md:text-7xl text-4xl font-poppins "
             data-aos="zoom-in"
             data-aos-duration="2000"
           >

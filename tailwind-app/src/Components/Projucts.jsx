@@ -5,7 +5,7 @@ const Projucts = () => {
   return (
     <div>
       <div className="w-[100%] h-[100vh] bg-primary flex items-center justify-center relative ">
-        <h1 className='text-7xl left-6 text-white font-poppins absolute top-10 after:contents-[""] after:block after:absolute after:top-8 after:left-full after:w-full after:h-1 after:rounded-[20px] after:bg-white'>
+        <h1 className='md:text-7xl text-4xl left-6 text-white font-poppins absolute top-10 after:contents-[""] after:block after:absolute after:top-8 after:left-full lg:after:w-full md:after:w-full after:w-[30%] after:h-1 after:rounded-[20px] after:bg-white'>
           Projucts
         </h1>
 

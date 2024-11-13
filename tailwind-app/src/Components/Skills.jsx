@@ -5,7 +5,7 @@ import { MdOutlineStarBorderPurple500 } from "react-icons/md";
 const Skills = () => {
   return (
     <div className="bg-white  md:min-h-[170vh] min-h-[170vh] lg:bg-white lg:min-h-0  md:max-w-[100%] ">
-      <h1 className="text-[#32333c] font-poppins lg:text-7xl text-4xl p-5   after:top-10  md:after:w-[30%] after:h-1 after:rounded-[20px]  after:top-10 after:bg-[#32333c] ">
+      <h1 className="text-[#32333c] font-poppins md:text-7xl text-2xl p-5   after:top-10  md:after:w-[30%] after:h-1 after:rounded-[20px]  after:top-10 after:bg-[#32333c] ">
         Skills/Education
       </h1>
       <div className="w-[100%] h-[100vh] lg:flex  justify-center items-center relative">

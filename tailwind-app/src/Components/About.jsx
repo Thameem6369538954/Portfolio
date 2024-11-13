@@ -9,7 +9,7 @@ const About = () => {
         <h1
           data-aos="zoom-in-right"
           data-aos-duration="2000"
-          className="lg:text-7xl md:text-4xl font-bold font-poppins text-black absolute left-11 top-20 text-white after:content-[''] after:block after:absolute after:top-2 lg:after:top-6 md:after:left-[14rem] lg:after:left-[28rem] md:after:w-full after:h-1 after:rounded-[20px] after:left-0  after:bg-white after:mt-2 text-3xl font-bold text-center"
+          className="lg:text-7xl md:text-4xl  font-bold font-poppins text-black absolute left-11 top-20 text-white after:content-[''] after:block after:absolute after:top-2 lg:after:top-6 md:after:left-[14rem] lg:after:left-[28rem] lg:after:w-full   after:h-1 after:rounded-[20px] after:left-0  after:bg-white after:mt-2 text-3xl font-bold text-center"
         >
           About Me
         </h1>
